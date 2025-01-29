@@ -5,17 +5,14 @@ Welcome to the **Introduction to Python Crash Course**! This repository contains
 ## **Repository Structure**
 Here's what you'll find in this repository:
 
-```
+/Presentations/     # PowerPoint presentations for the course
+    L0_introduction.pptx       # Introduction slides
+    L1_python_setup.pptx   
+    
 /Notebooks/         # Jupyter Notebooks for the lectures and exercises
     L2.ipynb  # Objects and Data Structures
     L3.ipynb  # Comparison Operators and Statements
     ...
-
-/Presentations/     # PowerPoint presentations for the course
-    L0_introduction.pptx       # Introduction slides
-    L1_python_setup.pptx   
-
----
 
 ## **How to Use the Materials**
 
